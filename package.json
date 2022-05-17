@@ -1,0 +1,11 @@
+{
+  "name": "comp229-lab1",
+  "version": "1.0.0",
+  "description": "lab1 project-build server",
+  "main": "server.js",
+  "author": "Keying",
+  "license": "MIT",
+  "dependencies": {
+    "mime-types": "^2.1.35"
+  }
+}
