@@ -1,0 +1,12 @@
+{
+  "name": "comp229-lesson",
+  "version": "1.0.0",
+  "description": "lab1 project-build server",
+  "main": "server.js",
+  "author": "Keying",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "mime-types": "^2.1.35"
+  }
+}
