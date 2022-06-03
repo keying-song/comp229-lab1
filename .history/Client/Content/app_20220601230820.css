@@ -1,0 +1,15 @@
+
+.nav-item:hover{
+    background-color:#cfb09c;
+}
+#container1{
+   background-image:linear-gradient(to right bottom, #bbd1e8,white);
+}
+#introduction{
+    margin-top:80px;
+}
+#welcome{
+   font-family: 'Dancing Script', cursive;
+   font-weight: bolder;
+   font-size: 2;
+}

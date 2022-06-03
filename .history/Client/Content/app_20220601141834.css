@@ -1,0 +1,6 @@
+body{
+    background-image:url(./background.png);
+}
+.nav-item:hover{
+    background-color:#A0C196;
+}

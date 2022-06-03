@@ -1,0 +1,45 @@
+
+
+#container1{
+   background-image:linear-gradient(to right bottom, #bbd1e8,white);
+}
+#introduction{
+    margin-top:20px;
+}
+#welcome{
+   font-family: 'Dancing Script', cursive;
+   font-weight: bolder;
+   font-size: 3.9em;
+}
+#footicon{
+    float:right;
+    color:white;
+}
+#footicon span{
+    margin-right:1em;
+}
+#footer{
+    color:white;
+}
+#footicon a{
+    color:white;
+    text-decoration: none;
+}
+
+.nav-link:hover{
+    color: rgb(255, 255, 255) !important;
+}
+.titlemark{
+    margin-bottom:3em;
+}
+.pagetitle{
+    margin-top: 3em;
+    display:flex;
+    justify-content: center;
+    flex-direction:column;
+    align-items: center; 
+    margin-bottom: 3em;
+}
+.col-md-8{
+    background-color:
+}

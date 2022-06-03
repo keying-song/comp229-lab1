@@ -1,0 +1,19 @@
+
+.nav-item:hover{
+    background-color:#A0C196;
+}
+#banner{
+    position:ab
+    width:70%;
+    height:500px;
+    background-color:aliceblue;
+   
+}
+ 
+main{
+    overflow:hidden;
+}
+body{
+    background-image:url(./background.jpg);
+    
+}

@@ -1,0 +1,18 @@
+
+.nav-item:hover{
+    background-color:#A0C196;
+}
+#banner{
+    position:relative;
+    top:60px;
+    left:20%;
+    width:60%;
+    height:500px;
+    background-color:lightgray;
+    opacity: 70%;
+   
+}
+body{
+    background-image:url(./background.png);
+    
+}

@@ -1,0 +1,22 @@
+
+.nav-item:hover{
+    background-color:#A0C196;
+}
+#banner{
+    position:relative;
+    top:100px;
+    left:10%;
+    width:70%;
+    height:450px;
+    background-color:lightgray;
+    opacity: 50;
+   
+}
+ 
+main{
+    overflow:hidden;
+}
+body{
+    background-image:url(./background.jpg);
+    
+}

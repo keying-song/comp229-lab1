@@ -1,0 +1,9 @@
+
+.nav-item:hover{
+    background-color:#A0C196;
+}
+
+#hero{
+    background-image:url(./background.png);
+    width:100%;
+}

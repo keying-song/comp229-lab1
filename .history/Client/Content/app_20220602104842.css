@@ -1,0 +1,30 @@
+
+
+#container1{
+   background-image:linear-gradient(to right bottom, #bbd1e8,white);
+}
+#introduction{
+    margin-top:80px;
+}
+#welcome{
+   font-family: 'Dancing Script', cursive;
+   font-weight: bolder;
+   font-size: 3.9em;
+}
+#footicon{
+    float:right;
+    color:white;
+}
+#footicon span{
+    margin-right:1em;
+}
+#footer{
+    color:white;
+}
+#footicon a{
+    color:white;
+    text-decoration: none;
+}
+.nav-link{
+    color: rgb(212, 243, 161) !important;
+  }
