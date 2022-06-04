@@ -1,7 +1,5 @@
 
 /*app.css-Keying Song 301166693 June 3,2022  */
-
-/*home page */
 #container1{
    background-image:linear-gradient(to right bottom, #bbd1e8,white);
 }
@@ -13,7 +11,6 @@
    font-weight: bolder;
    font-size: 3.9em;
 }
-/*footer */
 #footicon{
     float:right;
     color:white;
@@ -28,14 +25,13 @@
     text-decoration: none;
     color:white;
 }
-/*nva bar*/
+
 .nav-link:hover{
     color: rgb(255, 255, 255) !important;
 }
 .titlemark{
     margin-bottom:3em;
 }
-/*other page*/
 .pagetitle{
     margin-top: 3em;
     display:flex;

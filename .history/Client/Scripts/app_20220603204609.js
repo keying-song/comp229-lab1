@@ -1,5 +1,4 @@
 "use strict";
-/*app.js-Keying Song 301166693 June 3,2022  */
 
 //IIFE
 (function () {

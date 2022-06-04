@@ -28,14 +28,13 @@
     text-decoration: none;
     color:white;
 }
-/*nva bar*/
+
 .nav-link:hover{
     color: rgb(255, 255, 255) !important;
 }
 .titlemark{
     margin-bottom:3em;
 }
-/*other page*/
 .pagetitle{
     margin-top: 3em;
     display:flex;
