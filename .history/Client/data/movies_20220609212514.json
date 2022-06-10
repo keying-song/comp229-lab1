@@ -1,0 +1,20 @@
+{
+    "movies":
+    [
+        {
+          
+           "Name": "Star Wars",
+            "Year": "1977",
+            "Director": "George luces",
+            "Rating": "4 Stars"
+        },
+        
+        {
+          
+            "Name": "SpideR-Man: No Way Home",
+             "Year": "1977",
+             "Director": "George luces",
+             "Rating": "4 Stars"
+         }
+    ]
+}

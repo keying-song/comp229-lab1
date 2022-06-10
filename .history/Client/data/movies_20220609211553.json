@@ -1,0 +1,12 @@
+{
+    "movies":
+    [
+        {
+            id: ObjectId("62a2708938a0f0e0d8c05052"),
+            Name: 'Star Wars',
+            Year: '1977',
+            Director: 'George luces',
+            Rating: '4 Stars'
+        }
+    ]
+}
