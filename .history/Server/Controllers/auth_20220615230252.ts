@@ -7,22 +7,13 @@ import { UserDisplayName} from '../Util';
 //Display Functions
 export function DisplayLoginPage(req: express.Request, res: express.Response, next: express.NextFunction)
 {
-    if(! req.user)
-    {
-       return  res.render('index', { title: 'Login', page: 'login', messages: req.flash('loginMessage'), displayName:UserDisplayName(req)});
-    }
-    return res.redirect ('/movie-list');
- 
+    
+    res.render('index', { title: 'Login', page: 'login', messages: req.flash('loginMessage'), displayName:UserDisplayName(req)});
 }
 
 export function DisplayRegisterPage(req: express.Request, res: express.Response, next: express.NextFunction)
 {
-    if(! req.user)
-    {
-         return res.render('index', { title: 'Register', page: 'register', messages: req.flash('registerMessage'), displayName: UserDisplayName(req)});
-    }
-    return  res.redirect ('/movie-list'); res.redirect ('/movie-list');
-    
+    res.render('index', { title: 'Register', page: 'register', messages: req.flash('registerMessage'), displayName: UserDisplayName(req)});
 }
 
 

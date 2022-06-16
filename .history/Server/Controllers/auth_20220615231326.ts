@@ -21,7 +21,7 @@ export function DisplayRegisterPage(req: express.Request, res: express.Response,
     {
          return res.render('index', { title: 'Register', page: 'register', messages: req.flash('registerMessage'), displayName: UserDisplayName(req)});
     }
-    return  res.redirect ('/movie-list'); res.redirect ('/movie-list');
+    return  res.redirect ('/movie-list');
     
 }
 
