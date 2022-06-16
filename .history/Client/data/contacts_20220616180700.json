@@ -1,0 +1,19 @@
+{
+    "contacts":
+    [
+        { 
+            "Name": "Alice Green",
+            "Phone": "78534266531",
+            "Email" : "jaychou@gmail.com"
+           
+        },
+        
+        {
+            "Name": "Jay Chou",
+            "Phone": "78534266531",
+            "Email" : "jaychou@gmail.com"
+         }
+
+        
+    ]
+}

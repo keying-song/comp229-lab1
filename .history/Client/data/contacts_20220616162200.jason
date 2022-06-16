@@ -1,0 +1,24 @@
+{
+    "contacts":
+    [
+        {
+          
+           " Name": "Taylor Swift",
+            "Phone": "22678566544",
+            "Email" : "taylor@gmail.com"
+        },
+        
+        {
+            "Name": "Jay    ",
+            "Phone": "22678566544",
+            "Email" : "taylor@gmail.com"
+         },
+         {
+          
+            "Name": "Everything Everywhere All At Once",
+             "Year": "2022",
+             "Director": "Dan Kwan",
+             "Rating": "5.0 Stars"
+         }
+    ]
+}

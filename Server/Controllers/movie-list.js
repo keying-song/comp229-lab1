@@ -13,7 +13,7 @@ function DisplayMovieList(req, res, next) {
             res.end(err);
         }
         res.render('index', { title: 'Movie List', page: 'movie-list', movies: moviesCollection, displayName: (0, Util_1.UserDisplayName)(req) });
-    });
+    }).sort({ Name: 1 });
 }
 exports.DisplayMovieList = DisplayMovieList;
 //# sourceMappingURL=movie-list.js.map
